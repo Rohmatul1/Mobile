@@ -1,2 +1,5 @@
-# aplikasi-penjualan-sederhana-dengan-php-css-bootstrap
-Cara membuat aplikasi penjualan sederhana dengan PHP dan CSS Bootstrap
+# Aplikasi PPAM
+
+Aplikasi ini digunakan untuk penjualan Toko Dinar (bagian kasir).
+
+* URL aplikasi 	: aplikasippam.000webhostapp.com
